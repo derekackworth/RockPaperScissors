@@ -1,0 +1,9 @@
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSServiceHost\bin\Release\RPSServiceHost.exe.config
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSServiceHost\bin\Release\RPSServiceHost.exe
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSServiceHost\bin\Release\RPSServiceHost.pdb
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSServiceHost\obj\Release\RPSServiceHost.csproj.AssemblyReference.cache
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSServiceHost\obj\Release\RPSServiceHost.csproj.SuggestedBindingRedirects.cache
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSServiceHost\obj\Release\RPSServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSServiceHost\obj\Release\RPSServiceHost.csproj.Fody.CopyLocal.cache
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSServiceHost\obj\Release\RPSServiceHost.exe
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSServiceHost\obj\Release\RPSServiceHost.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vZgM7ZAVq8n72XKsqO0ueJHOsTUL1Y0GTN1hTiBGlB0AcTg55e9WHXdP+VGRqpC0uHmnI/uBJJwFRd/cL/Wh4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Derek\\Documents\\@\\Coding\\C#\\RockPaperScissors\\RPSServiceHost\\RPSServiceHost.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Derek\\.nuget\\packages\\costura.fody\\4.1.0\\costura.fody.4.1.0.nupkg.sha512",
+    "C:\\Users\\Derek\\.nuget\\packages\\fody\\6.0.0\\fody.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

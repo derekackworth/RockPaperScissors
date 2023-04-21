@@ -1,0 +1,9 @@
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSLibrary\bin\Release\RPSLibrary.dll
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSLibrary\bin\Release\RPSLibrary.pdb
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSLibrary\bin\Release\RPSContracts.dll
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSLibrary\bin\Release\RPSContracts.pdb
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSLibrary\obj\Release\RPSLibrary.csproj.AssemblyReference.cache
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSLibrary\obj\Release\RPSLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSLibrary\obj\Release\RPSLibrary.csproj.CopyComplete
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSLibrary\obj\Release\RPSLibrary.dll
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSLibrary\obj\Release\RPSLibrary.pdb

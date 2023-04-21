@@ -1,0 +1,17 @@
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSClient\obj\Debug\RPSClient.csproj.AssemblyReference.cache
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSClient\obj\Debug\RPSClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSClient\obj\Debug\MainWindow.baml
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSClient\obj\Debug\RPSClientDictionary.baml
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSClient\obj\Debug\MainWindow.g.cs
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSClient\obj\Debug\App.g.cs
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSClient\obj\Debug\RPSClient_MarkupCompile.cache
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSClient\obj\Debug\RPSClient.g.resources
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSClient\obj\Debug\RPSClient.Properties.Resources.resources
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSClient\obj\Debug\RPSClient.csproj.GenerateResource.cache
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSClient\obj\Debug\RPSClient.csproj.CoreCompileInputs.cache
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSClient\obj\Debug\RPSClient.exe
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSClient\obj\Debug\RPSClient.pdb
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSClient\bin\Debug\RPSClient.exe.config
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSClient\bin\Debug\RPSClient.exe
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSClient\bin\Debug\RPSClient.pdb
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSClient\obj\Debug\RPSClient.csproj.Fody.CopyLocal.cache

@@ -1,0 +1,17 @@
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSClient\bin\Release\RPSClient.exe.config
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSClient\bin\Release\RPSClient.exe
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSClient\bin\Release\RPSClient.pdb
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSClient\obj\Release\RPSClient.csproj.AssemblyReference.cache
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSClient\obj\Release\RPSClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSClient\obj\Release\MainWindow.baml
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSClient\obj\Release\RPSClientDictionary.baml
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSClient\obj\Release\MainWindow.g.cs
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSClient\obj\Release\App.g.cs
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSClient\obj\Release\RPSClient_MarkupCompile.cache
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSClient\obj\Release\RPSClient.g.resources
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSClient\obj\Release\RPSClient.Properties.Resources.resources
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSClient\obj\Release\RPSClient.csproj.GenerateResource.cache
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSClient\obj\Release\RPSClient.csproj.CoreCompileInputs.cache
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSClient\obj\Release\RPSClient.csproj.Fody.CopyLocal.cache
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSClient\obj\Release\RPSClient.exe
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSClient\obj\Release\RPSClient.pdb

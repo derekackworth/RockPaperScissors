@@ -1,0 +1,6 @@
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSContracts\bin\Debug\RPSContracts.dll
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSContracts\bin\Debug\RPSContracts.pdb
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSContracts\obj\Debug\RPSContracts.csproj.AssemblyReference.cache
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSContracts\obj\Debug\RPSContracts.csproj.CoreCompileInputs.cache
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSContracts\obj\Debug\RPSContracts.dll
+C:\Users\Derek\Documents\@\Coding\C#\RockPaperScissors\RPSContracts\obj\Debug\RPSContracts.pdb

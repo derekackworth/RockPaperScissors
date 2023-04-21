@@ -1,0 +1,331 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "Costura.Fody/4.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Fody": "6.0.0"
+        },
+        "compile": {
+          "lib/net40/Costura.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/Costura.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "build/Costura.Fody.props": {}
+        }
+      },
+      "Fody/6.0.0": {
+        "type": "package",
+        "build": {
+          "build/Fody.targets": {}
+        }
+      },
+      "RPSContracts/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/RPSContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RPSContracts.dll": {}
+        }
+      },
+      "RPSLibrary/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "RPSContracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RPSLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RPSLibrary.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win": {
+      "Costura.Fody/4.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Fody": "6.0.0"
+        },
+        "compile": {
+          "lib/net40/Costura.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/Costura.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "build/Costura.Fody.props": {}
+        }
+      },
+      "Fody/6.0.0": {
+        "type": "package",
+        "build": {
+          "build/Fody.targets": {}
+        }
+      },
+      "RPSContracts/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/RPSContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RPSContracts.dll": {}
+        }
+      },
+      "RPSLibrary/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "RPSContracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RPSLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RPSLibrary.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x64": {
+      "Costura.Fody/4.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Fody": "6.0.0"
+        },
+        "compile": {
+          "lib/net40/Costura.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/Costura.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "build/Costura.Fody.props": {}
+        }
+      },
+      "Fody/6.0.0": {
+        "type": "package",
+        "build": {
+          "build/Fody.targets": {}
+        }
+      },
+      "RPSContracts/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/RPSContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RPSContracts.dll": {}
+        }
+      },
+      "RPSLibrary/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "RPSContracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RPSLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RPSLibrary.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x86": {
+      "Costura.Fody/4.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Fody": "6.0.0"
+        },
+        "compile": {
+          "lib/net40/Costura.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/Costura.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "build/Costura.Fody.props": {}
+        }
+      },
+      "Fody/6.0.0": {
+        "type": "package",
+        "build": {
+          "build/Fody.targets": {}
+        }
+      },
+      "RPSContracts/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/RPSContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RPSContracts.dll": {}
+        }
+      },
+      "RPSLibrary/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "RPSContracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RPSLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RPSLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Costura.Fody/4.1.0": {
+      "sha512": "MkW5aqhqNvuP6MiaaD5Yx8efXv+5ucsumRx+Nsn5b+PA4RnaxJLtXhGkm1N+Hi7sjkSlL8kl1klSS/7v2DxZHw==",
+      "type": "package",
+      "path": "costura.fody/4.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/Costura.Fody.props",
+        "costura.fody.4.1.0.nupkg.sha512",
+        "costura.fody.nuspec",
+        "lib/net40/Costura.dll",
+        "lib/net40/Costura.xml",
+        "weaver/Costura.Fody.dll",
+        "weaver/Costura.Fody.xcf"
+      ]
+    },
+    "Fody/6.0.0": {
+      "sha512": "rH9Q7GapghyLYESfeCUOqh0S70eLc3FAikIgEEyGeng3JJf1M7mt2BUxjz93o3ipDXLrKn1s69AIEolmnVn8xg==",
+      "type": "package",
+      "path": "fody/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/Fody.targets",
+        "fody.6.0.0.nupkg.sha512",
+        "fody.nuspec",
+        "netclassictask/Fody.dll",
+        "netclassictask/FodyCommon.dll",
+        "netclassictask/FodyHelpers.dll",
+        "netclassictask/FodyIsolated.dll",
+        "netclassictask/Mono.Cecil.Pdb.dll",
+        "netclassictask/Mono.Cecil.Pdb.pdb",
+        "netclassictask/Mono.Cecil.Rocks.dll",
+        "netclassictask/Mono.Cecil.Rocks.pdb",
+        "netclassictask/Mono.Cecil.dll",
+        "netclassictask/Mono.Cecil.pdb",
+        "netstandardtask/Fody.dll",
+        "netstandardtask/FodyCommon.dll",
+        "netstandardtask/FodyHelpers.dll",
+        "netstandardtask/FodyIsolated.dll",
+        "netstandardtask/Mono.Cecil.Pdb.dll",
+        "netstandardtask/Mono.Cecil.Pdb.pdb",
+        "netstandardtask/Mono.Cecil.Rocks.dll",
+        "netstandardtask/Mono.Cecil.Rocks.pdb",
+        "netstandardtask/Mono.Cecil.dll",
+        "netstandardtask/Mono.Cecil.pdb"
+      ]
+    },
+    "RPSContracts/1.0.0": {
+      "type": "project",
+      "path": "../RPSContracts/RPSContracts.csproj",
+      "msbuildProject": "../RPSContracts/RPSContracts.csproj"
+    },
+    "RPSLibrary/1.0.0": {
+      "type": "project",
+      "path": "../RPSLibrary/RPSLibrary.csproj",
+      "msbuildProject": "../RPSLibrary/RPSLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "Costura.Fody >= 4.1.0",
+      "Fody >= 6.0.0",
+      "RPSLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Derek\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Derek\\Documents\\@\\Coding\\C#\\RockPaperScissors\\RPSServiceHost\\RPSServiceHost.csproj",
+      "projectName": "RPSServiceHost",
+      "projectPath": "C:\\Users\\Derek\\Documents\\@\\Coding\\C#\\RockPaperScissors\\RPSServiceHost\\RPSServiceHost.csproj",
+      "packagesPath": "C:\\Users\\Derek\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Derek\\Documents\\@\\Coding\\C#\\RockPaperScissors\\RPSServiceHost\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Derek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {
+            "C:\\Users\\Derek\\Documents\\@\\Coding\\C#\\RockPaperScissors\\RPSLibrary\\RPSLibrary.csproj": {
+              "projectPath": "C:\\Users\\Derek\\Documents\\@\\Coding\\C#\\RockPaperScissors\\RPSLibrary\\RPSLibrary.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "dependencies": {
+          "Costura.Fody": {
+            "target": "Package",
+            "version": "[4.1.0, )"
+          },
+          "Fody": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[6.0.0, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
